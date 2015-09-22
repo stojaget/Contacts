@@ -1,0 +1,7 @@
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\bin\Debug\Kontakti.Validation.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\bin\Debug\Kontakti.Validation.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\obj\Debug\Kontakti.Validation.csprojResolveAssemblyReference.cache
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\obj\Debug\Kontakti.Validation.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.Validation\obj\Debug\Kontakti.Validation.pdb

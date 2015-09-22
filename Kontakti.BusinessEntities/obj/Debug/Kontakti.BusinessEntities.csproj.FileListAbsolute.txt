@@ -1,0 +1,14 @@
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\Kontakti.BusinessEntities.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\Kontakti.BusinessEntities.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\hr-HR\Kontakti.BusinessEntities.resources.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\Kontakti.Validation.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\Kontakti.Validation.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\Kontakti.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\Kontakti.BusinessEntities.Localization.General.resources
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\Kontakti.BusinessEntities.Localization.General.hr-HR.resources
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\Kontakti.BusinessEntities.csproj.GenerateResource.Cache
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\hr-HR\Kontakti.BusinessEntities.resources.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\Kontakti.BusinessEntities.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BusinessEntities\obj\Debug\Kontakti.BusinessEntities.pdb

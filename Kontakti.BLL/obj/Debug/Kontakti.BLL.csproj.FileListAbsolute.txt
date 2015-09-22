@@ -1,0 +1,14 @@
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.BLL.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.BLL.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.BusinessEntities.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.DAL.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.Validation.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.BusinessEntities.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.DAL.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Kontakti.Validation.pdb
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\bin\Debug\hr-HR\Kontakti.BusinessEntities.resources.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\obj\Debug\Kontakti.BLL.csprojResolveAssemblyReference.cache
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\obj\Debug\Kontakti.BLL.dll
+C:\Users\darko\Documents\Visual Studio 2013\Projects\Kontakti\Kontakti.BLL\obj\Debug\Kontakti.BLL.pdb
